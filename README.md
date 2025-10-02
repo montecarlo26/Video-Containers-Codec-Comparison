@@ -43,4 +43,4 @@ I added the VP9 Video result to the repository for reference since it was the on
 
 .mp4, .mpg (MPEG-1), and .webm (VP9) are the best contenders. Use base .mp4 as of ~2028 or later to avoid licensing issues. Use .mpg if file size isn't too big of an issue. 
 
-My overall pick is .webm with VP9. VP9's encoding time leaves a bit to be desired but overall its extremely small file size, video quality, and free license paired with .webm which is also free and open (and specific compared to .mkv which is a bit too generalized) makes it the best option imo.
+My overall pick is <b>.webm with VP9</b>. VP9's encoding time leaves a bit to be desired but overall its extremely small file size, video quality, and free license paired with .webm which is also free and open (and specific compared to .mkv which is a bit too generalized) makes it the best option imo.
