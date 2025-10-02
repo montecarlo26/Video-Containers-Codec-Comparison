@@ -37,6 +37,8 @@ All videos are able to play instantly, decoding time is not a variable. Audio ha
 * .webm AV1 encoding time is unacceptable
 * <b>Bonus:</b> HEVC H265 is proprietary and would have required me to pay to play it. Encoding time was 33 seconds and file size is 26,670KB
 
+I added the VP9 Video result to the repository for reference since it was the only video under 25MB, if you're curious about the video that was used.
+
 ## Conclusion
 
 .mp4, .mpg (MPEG-1), and .webm (VP9) are the best contenders. Use base .mp4 as of ~2028 or later to avoid licensing issues. Use .mpg if file size isn't too big of an issue. 
