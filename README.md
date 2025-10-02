@@ -1,6 +1,6 @@
 # Why
 
-I want to know the best Video format to read and write video with audio
+I want to know the best Video format to read and write video with audio.
 
 ## High Level Overview
 
