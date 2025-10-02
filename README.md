@@ -7,7 +7,7 @@ I want to know the best Video format to read and write video with audio.
 * A codec is an algorithm that compresses and decompresses audio and / or video.
 * A video file is typically a container with multiple codecs. For example, a .mp4 file may use the H264 codec for video and MP2 codec for audio.
 
-Codecs are pretty much mandatory, as storing raw video and audio files would take up too much space.
+Codecs are pretty much mandatory, as storing raw video and audio files would take up too much space. The 34 second 1920x1080 60fps video used in the test would be over 12GB if uncompressed.
 
 ## The Test
 
