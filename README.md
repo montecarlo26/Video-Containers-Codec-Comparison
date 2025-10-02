@@ -12,7 +12,7 @@ Codecs are pretty much mandatory, as storing raw video and audio files would tak
 ## The Test
 
 A source video was converted to various formats. The source video is 1920x1080 60fps RGB-8 bit, 48K 16bit stereo, 34 seconds.
-The video is a highlight from Marvel Rivals with a decent amount of action and movement in the scene, attached for reference.
+The video is a highlight from Marvel Rivals with a decent amount of action and movement in the scene. Too big to upload.
 Shotcut was used to save the video in the various formats.
 * source video size: 1920x1080 pixels * 3 channels * 8 bits per channel * 60 frames per second * 34 seconds = 12.7 GigaBytes
 * source audio size: 48000 samples per second * 2 channels * 16 bits per channel * 34 seconds = 6.53MegaBytes
