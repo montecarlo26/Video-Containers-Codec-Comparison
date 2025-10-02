@@ -18,7 +18,7 @@ Shotcut was used to save the video in the various formats.
 * source audio size: 48000 samples per second * 2 channels * 16 bits per channel * 34 seconds = 6.53MegaBytes
 
 <p align="center" width="100%">
-<img src="/codecs compared.png?raw=true" width="25%" height="25%">
+<img src="/codecs compared.png?raw=true" width="100%" height="100%">
 </p>
 
 
