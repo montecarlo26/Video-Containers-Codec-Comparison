@@ -27,7 +27,7 @@ Shotcut was used to save the video in the various formats.
 
 ## Results
 
-All videos are able to play instantly, decoding time is not a variable. Audio has a much smaller impact than video and its compression is more trivial, being a 1-dimensional array of samples, so I didn't bother to benchmark it. The various codecs can be tweaked but I didn't mess with them for simplicity. A video with different dimensions and duration may affect the results.
+All videos are able to play instantly, decoding time is not a variable. Audio has a much smaller impact than video, so it wasn't the focus of the benchmark. The various codecs can be tweaked but I didn't mess with them for simplicity. A video with different dimensions and duration may affect the results.
 
 * .mp4 is the best middleground. License mess with extensions despite initial release in 1999
 * .mpg / .avi MPEG-1 is underrated despite its age. Its simple format, fast encoding time, expired patents and decent quality make it desirable. Main drawback is file size
@@ -36,8 +36,6 @@ All videos are able to play instantly, decoding time is not a variable. Audio ha
 * .webm VP9 is the second best middleground and boasts the smallest file size. It is half the size of VP8 with a shorter encoding time and is only ~5% worse quality
 * .webm AV1 encoding time is unacceptable
 * <b>Bonus:</b> HEVC H265 is proprietary and would have required me to pay to play it. Encoding time was 33 seconds and file size is 26,670KB
-
-I added the VP9 Video result to the repository for reference since it was the only file under 25MB that can be uploaded to github, if you're curious about the video that was used.
 
 ## Conclusion
 
