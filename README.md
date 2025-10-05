@@ -20,7 +20,7 @@ Shotcut was used to save the video in the various formats.
 <br>
 
 <p align="center" width="100%">
-<img src="/codecs compared.png?raw=true" width="90%" height="90%">
+<img src="/codec comparison.png?raw=true" width="90%" height="90%">
 </p>
 
 <br>
